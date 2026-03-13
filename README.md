@@ -15,3 +15,4 @@ COD is the most used payment method, followed by Credit Card, EMI, UPI, and Debi
 6.Top States & Cities (Charts):
 Maharashtra and Indore generate the highest sales, indicating strong regional demand.
 # Output
+![image alt](https://github.com/SwapnilThakare97/E-Commerce-Store-Sales-Report/blob/main/E-Commerce%20Store%20Sales%20Dashboard.png?raw=true)
